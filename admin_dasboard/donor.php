@@ -31,7 +31,7 @@
         <th>Name</th>
     
         <th>Gender</th>
-        <th>Phone</th>
+        <th>Location</th>
         <th>By </th>
         <th>Image</th>
         <th>Action</th>
